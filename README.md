@@ -1,4 +1,4 @@
-# FURENU_KOTO
+# FurenuKoto
 ![フレヌ琴 pptx](https://github.com/RitsuMurakami/FURENU_KOTO/assets/89783070/c1b5d15d-4852-4f22-ae61-89534e777de2)
 
 
